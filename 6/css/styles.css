@@ -1,0 +1,33 @@
+* {
+    font-family: monospace;
+    margin: 0;
+}
+body {
+    
+    background: #efefef;
+}
+div {
+    padding: 2vh 3vw;
+}
+#dataInputs {
+    padding: 0;
+}
+header {
+    display:block;
+    text-align: center;
+    background: #a9a9a9;
+    color: #fff;
+}
+content {
+    display: block;    
+    text-align: justify;
+    background: #efefef;
+}
+footer {
+    display:block;
+    width: 100vw;
+    text-align: right;
+    background: #ff3b3f;
+    bottom: 0;
+    position:fixed;
+}

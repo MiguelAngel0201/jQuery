@@ -1,0 +1,39 @@
+* {
+    margin:0;
+    font-family: sans-serif;
+    width: 200vw;
+    overflow-y:hidden;
+}
+header {
+    display: block;
+    height: 24vh;
+    text-align: center;
+    background-color: #efefef;
+}
+header h1 {
+}
+content{
+    display: block;
+    height: 50vh;
+    overflow-x: hidden !important;
+    width: 50vw;
+}
+content .caja {
+    background: blue;
+    width: 13vw;
+    height: 4vh;
+    margin-top: 18vh;
+    position: fixed;
+    color:#fff;
+    overflow-x: hidden !important;
+}
+footer{
+    text-align: right;
+    height: 24vh;
+    background-color: #efefef;
+    overflow-x: hidden;
+}
+footer h5 {
+    margin: 10vh 0;
+    
+}

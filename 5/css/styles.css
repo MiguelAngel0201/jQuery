@@ -1,0 +1,27 @@
+* {
+    margin:0;
+    font-family: sans-serif;
+}
+span{
+    display: inline;
+}
+header {
+    text-align: center;
+    display: block;
+    height: 10vh;
+}
+content {
+    display: block;
+    padding: 2vh 2vw;
+    height: 50vh;
+    font-weight: bolder;
+}
+.x, .y{
+    color: red;
+}
+footer{
+    display: block;
+    padding: 2vh 2vw;
+    height: 10vh;
+    text-align: right;
+}
